@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="768"
+   viewBox="0 0 203.2 203.2"
+   version="1.1"
+   id="svg913"
+   sodipodi:docname="cccc.svg"
+   inkscape:export-filename="/home/gully/downloads/test-tube.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata919">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs917" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     id="namedview915"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="1.1666667"
+     inkscape:cx="384"
+     inkscape:cy="384"
+     inkscape:window-x="0"
+     inkscape:window-y="-16"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg913" />
+  <path
+     d="M152.93 97.923a59.267 59.267 0 0 1-4.308 65.712 59.267 59.267 0 0 1-62.358 21.168 59.267 59.267 0 0 1-43.42-49.511A59.267 59.267 0 0 1 71.97 76.23"
+     fill="none"
+     stroke="#182d3a"
+     stroke-width="8.467"
+     id="path903" />
+  <path
+     d="M117.82 83.002a47.413 47.413 0 0 1 31.151 42.486 47.413 47.413 0 0 1-27.33 45.04 47.413 47.413 0 0 1-52.07-8.015 47.413 47.413 0 0 1-12.522-51.173"
+     fill="none"
+     stroke="#0bd"
+     stroke-width="6.773"
+     id="path905" />
+  <path
+     d="M88.63 91.913a37.93 37.93 0 0 1 40.938 10.017 37.93 37.93 0 0 1 6.412 41.656 37.93 37.93 0 0 1-36.032 21.865 37.93 37.93 0 0 1-33.988-24.922"
+     fill="none"
+     stroke="#0de"
+     stroke-width="5.419"
+     id="path907" />
+  <path
+     d="M75.324 112.384a30.345 30.345 0 0 1 30.24-14.913 30.345 30.345 0 0 1 25.35 22.231 30.345 30.345 0 0 1-10.838 31.928 30.345 30.345 0 0 1-33.645 2.205"
+     fill="none"
+     stroke="#0ff"
+     stroke-width="4.335"
+     id="path909" />
+  <path
+     fill="#182d3a"
+     d="M65.607 12.143h8.467v67.733h-8.467z"
+     id="path911" />
+</svg>
