@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="156"
+   height="96"
+   viewBox="0 0 156 96.000008"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffffff;"
+     x="140.19197"
+     y="19.736"
+     id="bottom_description_text"><tspan
+       x="140.19197"
+       y="19.736"
+       style="font-size:16px;text-align:end;text-anchor:end;fill:#ffffff;"
+       id="tspan1175">Dépasser</tspan><tspan
+       x="140.19197"
+       y="39.736"
+       style="font-size:16px;text-align:end;text-anchor:end;fill:#ffffff;"
+       id="tspan1179">les incidents</tspan></text>
+  <rect
+     id="bottom_description_highlight"
+     width="8"
+     height="48"
+     x="148"
+     y="0"
+     style="fill:#ffffff;stroke-width:0.536788" />
+  <text
+     xml:space="preserve"
+     style="font-size:32px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.264583;"
+     x="7.2963457"
+     y="80.176003"
+     id="bottom_title_text"><tspan
+       x="7.2963457"
+       y="80.176003"
+       style="font-size:32px;fill:#ffffff;stroke-width:0.264583;"
+       id="tspan18">Expertise</tspan></text>
+  <rect
+     id="bottom_title_highlight"
+     width="8"
+     height="48"
+     x="148"
+     y="48"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.536788" />
+</svg>
