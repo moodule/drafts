@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="156" height="96"><text style="line-height:1.25" x="140.192" y="19.736" font-size="16" font-family="sans-serif" fill="#fff"><tspan x="140.192" y="19.736" style="text-align:end" text-anchor="end">Dépasser</tspan><tspan x="140.192" y="39.736" style="text-align:end" text-anchor="end">les incidents</tspan></text><path fill="#fff" d="M148 0h8v48h-8z"/><text style="line-height:1.25" x="7.296" y="80.176" font-size="32" font-family="sans-serif" fill="#fff" stroke-width=".265"><tspan x="7.296" y="80.176">Expertise</tspan></text><path fill="#fff" d="M148 48h8v48h-8z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewport="0 0 156 96">
+    <g fill="#fff">
+        <text style="line-height:1.25" x="140.192" y="19.736" font-size="16" font-family="sans-serif">
+            <tspan x="140.192" y="19.736" style="text-align:end" text-anchor="end">Dépasser</tspan>
+            <tspan x="140.192" y="39.736" style="text-align:end" text-anchor="end">les incidents</tspan>
+        </text>
+        <path d="M148 0h8v48h-8z"/>
+    </g>
+    <g fill="#fff">
+        <text style="line-height:1.25" x="7.296" y="80.176" font-size="32" font-family="sans-serif" stroke-width=".265">
+            <tspan x="7.296" y="80.176">Expertise</tspan>
+        </text>
+        <path d="M148 48h8v48h-8z"/>
+    </g>
+</svg>
